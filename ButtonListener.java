@@ -16,6 +16,8 @@ public class ButtonListener implements ActionListener {
 	 * 
 	 * @param e
 	 *            Button action event that indicates the action of the button
+	 */
+	@Override
 	public void actionPerformed(ActionEvent e) {
 		
 		// gets button type (Rectangle,)
