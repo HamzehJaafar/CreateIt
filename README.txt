@@ -1,18 +1,11 @@
-CreateIT allows you to draw Rectangle, Ellipse and Line nodes using mouse drag placement. You can also had text
-over any drawn node. The program can be used to illustrate diagrams, plans etc.
+#CreateIT
 
-Aspects of Program that work:
+CreateIT allows for easy creation of Rectangle, Ellipse and Line nodes using simple mouse drag & drop placements. Every node is able to some text and is draggable post creation. This program is ideally used to illustrate diagrams, plans, binary trees etc. 
 
--> Rectangle/Ellipse/Line can be drawn sucessfully
--> Rectangle/Ellipse/Line can be selected sucessfully
--> Rectangle/Ellipse/Line can be moved around sucessfully
--> Rectangle/Ellipse/Line can be deleted sucessfully
--> Rectangle/Ellipse can have a label applied sucessfully onto them.
--> Can only click on button at a time, if another button is clicked it's ignored
--> Cannot draw under top panel
--> When drawing line/edge you can draw the mouse for the second point as it updates.
+# Usage
 
+Download / Clone the github respos and run Assignment.java by compiling the repo using an IDE / Java in Terminal or CMD. 
 
-
-Author : Hamzeh Jaafar
+##Author
+Hamzeh Jaafar
 Course Work for CPS209 @ Ryerson University.
